@@ -75,7 +75,7 @@ function parityNamespace (web3) {
       name: 'listAccounts',
       call: 'parity_listAccounts',
       params: 3,
-      inputFormatter: [null, null, web3._extend.formatters.inputDefaultBlockNumberFormatter]
+      inputFormatter: [null, null, web3.extend.formatters.inputDefaultBlockNumberFormatter]
     }, {
       name: 'phraseToAddress',
       call: 'parity_phraseToAddress',
