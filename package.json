@@ -1,7 +1,7 @@
 {
-  "name": "web3-complete",
-  "version": "0.0.0",
-  "description": "Comprehensive collection of RPC methods not supported by web3.js",
+  "name": "web3-explorer",
+  "version": "1.0.0",
+  "description": "Comprehensive collection of RPC methods for explorer builders",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axic/web3-complete.js.git"
+    "url": "git+https://github.com/btenterprise2020/web3-explorer.js.git"
   },
   "keywords": [
     "ethereum",
     "web3"
   ],
-  "author": "Alex Beregszaszi <alex@rtfs.hu>",
+  "author": "BT Enterprise <btenterprise2020@gmail.com>",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/axic/web3-complete.js/issues"
+    "url": "https://github.com/btenterprise2020/web3-explorer.js/issues"
   },
-  "homepage": "https://github.com/axic/web3-complete.js#readme",
+  "homepage": "https://github.com/btenterprise2020/web3-explorer.js#readme",
   "devDependencies": {
     "standard": "^11.0.1"
   }
