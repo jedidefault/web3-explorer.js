@@ -1,6 +1,6 @@
 {
   "name": "web3-explorer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Comprehensive collection of RPC methods for explorer builders",
   "main": "index.js",
   "scripts": {

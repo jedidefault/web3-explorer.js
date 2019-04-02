@@ -17,11 +17,6 @@ function debugNamespace (web3) {
       name: 'preimage',
       call: 'debug_preimage',
       params: 1
-    }, {
-      name: 'listAccounts',
-      call: 'debug_listAccounts',
-      params: 3,
-      inputFormatter: [null, null, web3.extend.formatters.inputDefaultBlockNumberFormatter]
     }]
   })
 }
